@@ -1,0 +1,34 @@
+to-do-list
+
+1.Initial design : Create Front end rule
+
+2.Main data untuk analyst tgok
+	- rules
+	- message
+	- classtype
+
+3.Function to create rules
+	- filtering
+	- searching
+	- field required to create rules: 1. technique name
+					  2. threat name
+					  3. threat class
+					  4. severity
+
+Ongoing:
+1.Initial design : Create Front end rule
+
+2.Main data untuk analyst tgok
+	- rules
+	- message
+	- classtype
+
+3.Function to create rules
+	- filtering
+	- searching
+	- field required to create rules: 1. technique name
+					  2. threat name
+					  3. threat class
+					  4. severity
+
+Completed:
