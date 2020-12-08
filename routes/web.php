@@ -28,3 +28,13 @@ Route::get('/rule2', function () {
 Route::get('/ruleform', function () {
     return view('UI.ruleform');
 });
+
+// Route::get('/rule3', function () {
+//     return view('UI.rulepage3');
+// });
+
+Route::get('/rulepage3', 'PendingEventsController@index' )->name('index');
+
+Route::post('/rulepage3', 'SidmapsController@store' )->name('store');
+
+Route::get('/rulepage3', 'PendingEventsController@search' )->name('search');

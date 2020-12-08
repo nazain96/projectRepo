@@ -257,6 +257,9 @@ position:absolute;
                                   <span>trojan-activity
                                   </span>
                                 </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
                                 <a class="list-group-item list-group-item-action waves-effect">SIDs :
                                   <span>2404000
                                   </span>
@@ -267,14 +270,12 @@ position:absolute;
                                 <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
                                   <span class="badge badge-danger badge-pill pull-right">Major</span>
                                 </a>
-                                <a class="list-group-item list-group-item-action waves-effect">Message :
-                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
-                                </a>
+                                
                               </div>
                               <!-- List group links -->
 
                               <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
-                                <h6>Read more <i class="fas fa-angle-double-right"></i></h6>
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
                               </a>
 
                             </div>
@@ -311,6 +312,10 @@ position:absolute;
                                   <span>trojan-activity
                                   </span>
                                 </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
                                 <a class="list-group-item list-group-item-action waves-effect">SIDs :
                                   <span>2404000
                                   </span>
@@ -321,14 +326,11 @@ position:absolute;
                                 <a class="list-group-item list-group-item-action waves-effect">Signature Severity
                                   <span class="badge badge-danger badge-pill pull-right">Major</span>
                                 </a>
-                                <a class="list-group-item list-group-item-action waves-effect">Message:
-                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
-                                </a>
                               </div>
                               <!-- List group links -->
 
                               <a href="#!" class="black-text d-flex justify-content-end">
-                                <h6>Read more <i class="fas fa-angle-double-right"></i></h6>
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
                               </a>
 
                             </div>
@@ -367,6 +369,9 @@ position:absolute;
                                   <span>trojan-activity
                                   </span>
                                 </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
                                 <a class="list-group-item list-group-item-action waves-effect">SIDs :
                                   <span>2404000
                                   </span>
@@ -377,14 +382,12 @@ position:absolute;
                                 <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
                                   <span class="badge badge-danger badge-pill pull-right">Major</span>
                                 </a>
-                                <a class="list-group-item list-group-item-action waves-effect">Message :
-                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
-                                </a>
+                                
                               </div>
                               <!-- List group links -->
 
                               <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
-                                <h6>Read more <i class="fas fa-angle-double-right"></i></h6>
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
                               </a>
 
                             </div>
@@ -421,6 +424,10 @@ position:absolute;
                                   <span>trojan-activity
                                   </span>
                                 </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
                                 <a class="list-group-item list-group-item-action waves-effect">SIDs :
                                   <span>2404000
                                   </span>
@@ -431,14 +438,11 @@ position:absolute;
                                 <a class="list-group-item list-group-item-action waves-effect">Signature Severity
                                   <span class="badge badge-danger badge-pill pull-right">Major</span>
                                 </a>
-                                <a class="list-group-item list-group-item-action waves-effect">Message:
-                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
-                                </a>
                               </div>
                               <!-- List group links -->
 
                               <a href="#!" class="black-text d-flex justify-content-end">
-                                <h6>Read more <i class="fas fa-angle-double-right"></i></h6>
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
                               </a>
 
                             </div>
@@ -451,7 +455,1238 @@ position:absolute;
                   </td>
 
                 </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
 
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                    <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Message :
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >109.196.130.50,151.13.184.200</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity:
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                                
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end" data-toggle="modal" data-target="#DetailInfo">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                  <th scope="row">
+                    <input class="form-check-input" type="checkbox" id="checkbox1">
+                    <label class="form-check-label" for="checkbox1" class="label-table"></label>
+                  </th>
+                  <td>
+                        <!-- Title -->
+                        <h4 class="card-title"><a>Rules: </a></h4>
+                        <!-- Text -->
+                        <p class="card-text">ET CNC Shadowserver Reported CnC Server IP group 1</p>
+
+                        <!--Grid column-->
+                        <div class="col-md-9 mb-4">
+
+                          <!--Card-->
+                          <div class="card mb-4">
+
+                            <!--Card content-->
+                            <div class="card-body">
+
+                              <!-- List group links -->
+                              <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action waves-effect">Class Type :
+                                  <span>trojan-activity
+                                  </span>
+                                </a>
+
+                                <a class="list-group-item list-group-item-action waves-effect">Message:
+                                  <span>ET CNC Shadowserver Reported CnC Server IP group 1</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">SIDs :
+                                  <span>2404000
+                                  </span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Destination IP :
+                                  <span >100.6.23.40,101.141.5.17,101.187.104.105</span>
+                                </a>
+                                <a class="list-group-item list-group-item-action waves-effect">Signature Severity
+                                  <span class="badge badge-danger badge-pill pull-right">Major</span>
+                                </a>
+                              </div>
+                              <!-- List group links -->
+
+                              <a href="#!" class="black-text d-flex justify-content-end">
+                                <h6>Details <i class="fas fa-angle-double-right"></i></h6>
+                              </a>
+
+                            </div>
+
+                          </div>
+                          <!--/.Card-->
+
+                        </div>
+                        <!--Grid column-->
+                  </td>
+
+                </tr>
               </tbody>
               <!--Table body-->
             </table>
